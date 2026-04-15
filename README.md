@@ -26,9 +26,8 @@ A Pharmacy Management System with Admin and Customer modules, using file handlin
 
 ## Login Credentials
 
-| Role     | Username | Password |
-|----------|----------|----------|
-| Admin    | admin    | 1234     |
-| Customer | (register at launch) | - |
+| Role     | Username | Password   |
+|----------|----------|------------|
+| Admin    | tehreem  | tehreem123 |
+| Customer | (managed by Admin — add customers from Admin panel first) | - |
 
-> Update the table above with your actual credentials!
